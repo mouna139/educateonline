@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/educateonline/static/css/main.a3ad0cc4.css",
+    "main.js": "/educateonline/static/js/main.8d7f8cfb.js",
+    "static/js/787.e186a443.chunk.js": "/educateonline/static/js/787.e186a443.chunk.js",
+    "index.html": "/educateonline/index.html",
+    "main.a3ad0cc4.css.map": "/educateonline/static/css/main.a3ad0cc4.css.map",
+    "main.8d7f8cfb.js.map": "/educateonline/static/js/main.8d7f8cfb.js.map",
+    "787.e186a443.chunk.js.map": "/educateonline/static/js/787.e186a443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ad0cc4.css",
+    "static/js/main.8d7f8cfb.js"
+  ]
+}
